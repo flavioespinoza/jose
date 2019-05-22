@@ -17,6 +17,7 @@
     "jws",
     "jwt",
     "jsonwebtoken",
+    "secp256k1",
     "eddsa",
     "sign",
     "verify"
