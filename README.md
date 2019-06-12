@@ -1,5 +1,4 @@
-# @panva/jose
-
+# _jwt
 [![build][travis-image]][travis-url] [![codecov][codecov-image]][codecov-url]
 
 > "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js with minimal dependencies
